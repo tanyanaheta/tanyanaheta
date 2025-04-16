@@ -30,7 +30,7 @@ I’ve led and contributed to projects across financial modeling, NLP, graph lea
 ## 🌐 More About Me
 
 - 🖥️ [Portfolio Website](https://tanyanaheta.github.io)
-- 📄 [View Resume](https://tanyanaheta.github.io/resume)
+- 📄 [View Resume](https://github.com/tanyanaheta/tanyanaheta.github.io/blob/main/resume.pdf)
 - 📬 [Email Me](mailto:tanyanaheta@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tanyanaheta)
 
